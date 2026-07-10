@@ -95,3 +95,5 @@ Netflix-Movie-Data-Analysis/
 * Statistical Analysis
 
 ## Screenshot
+
+https://github.com/shreyashshinde0910-max/Netflix-Data-Analysis/blob/main/Top%2010%20Movies.png
